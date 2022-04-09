@@ -1,0 +1,2 @@
+line 96
+soup = BeautifulSoup( page,"html.parser" )
